@@ -32,3 +32,8 @@ resources/
 #only for the Pyber project
 
 *.pdf
+
+
+#ignore config file (DB_password)
+
+config.py

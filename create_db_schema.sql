@@ -1,11 +1,11 @@
-CREATE DATABASE IF NOT EXISTS defunciones_inegi;
+CREATE DATABASE IF NOT EXISTS defunciones_inegi_db;
 
 use defunciones_inegi_db;
 
 
-drop view IF NOT EXISTS vw_derecho_habiencia;
+drop view IF EXISTS vw_derecho_habiencia;
 
-drop table d_defunciones_generales;
+drop table IF EXISTS d_defunciones_generales;
 
 CREATE TABLE d_defunciones_generales (
   ent_regis INT NULL,
