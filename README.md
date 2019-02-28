@@ -5,6 +5,12 @@ By Data Panas
 * Daniel Cespedes - [LinkedIn](https://www.linkedin.com/in/selinzorob/) - [GitHub](https://github.com/danielczz)
 * Joel Sotelo - [LinkedIn](https://www.linkedin.com/in/joelsotelods/) - [GitHub](https://github.com/joelsotelods)
 
+## Rafa & Eduardo
+
+agregamos los archivos fuente como un zip: resources.zip / por si lo quieren probar lol
+y utilizamos Mysql.
+
+
 
 ## Process
 
