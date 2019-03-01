@@ -5,14 +5,27 @@ By Data Panas
 * Daniel Cespedes - [LinkedIn](https://www.linkedin.com/in/selinzorob/) - [GitHub](https://github.com/danielczz)
 * Joel Sotelo - [LinkedIn](https://www.linkedin.com/in/joelsotelods/) - [GitHub](https://github.com/joelsotelods)
 
-## Rafa & Eduardo
-
-agregamos los archivos fuente como un zip: resources.zip / por si lo quieren probar lol
-y utilizamos Mysql.
+![Images/landingResize.png](images/paper-3249919_1280.jpg)
 
 
 
-## Process
+
+## Project outline
+
+It is a traditional scenario to **Extract, Transform and Load _(ETL)_** data for analysis purposes. Here we can find that process for the general defunctions that happened accross Mexico as a country. The data is provided by _Instituto Nacional de Estadística y Geografía_ and you can review it on the following link: **[data for defunctions from INEGI](https://www.inegi.org.mx/programas/mortalidad/)**
+
+### **Technology landscape**
+
+1. Python, to provide data analysis: 
+[_Python_](https://www.python.org/)
+
+1. Pandas, to provide data analysis on Python: 
+[_Pandas_](https://pandas.pydata.org/)
+
+1. SQL, to provide data analysis: 
+[_SQL_](https://es.wikipedia.org/wiki/SQL)
+
+## ETL - Process for data gathering
 
 Import dependencies:
 
